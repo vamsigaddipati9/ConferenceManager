@@ -1,0 +1,6 @@
+Wolf Proceedings 2026
+# +++
+* Paper|Abe Leite; Saúl A. Blanco|Effects of Human vs. Automatic Feedback on Students' Understanding of AI Concepts and Programming Style
+* Paper|Ayesha Naeem Syeda; Rutwa Engineer; Bogdan Simion|Analyzing the Effects of Active Learning Classrooms in CS2
+* Panel|Farzana Rahman; Elodie Billionniere; Quincy Brown; Ann Quiroz Gates|RESET (Re-Enter STEM through Emerging Technology): Finding Re-Entry Pathways for Women
+* LightningTalk|Kevin Lin|Transitioning From Peer Instruction to POGIL with Guided Lecture Notes

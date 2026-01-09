@@ -1,0 +1,7 @@
+Test Conference 2025
+# Session 1;90
+*Paper;Alice Johnson;AI and Future Tech;15
+*Panel;John Smith;Panel on Future Tech;75
++++ 
+*Paper;Bob Brown;Cybersecurity Trends;15
+*Panel;Eve Adams;Future of Education;75

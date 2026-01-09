@@ -1,0 +1,22 @@
+SIGCSE Technical Symposium 2020
+# Security,75
+* Paper|Valdemar Švábenský; Jan Vykopal; Pavel Čeleda|What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences|25
+* Paper|Debarati Basu; Harinni K. Kumar; Vinod K. Lohani; N. Dwight Barnette;Godmar Back, Dave McPherson, Calvin J Ribbens, Paul E Plassmann|Integration and evaluation of spiral theory based cybersecurity modules into core computer science and engineering courses
+* Paper|Muhammad Rizwan Asghar; Andrew Luxton-Reilly|A Case Study of a Cybersecurity Programme: Curriculum Design, Resource Management, and Reflections
+# Student Experiences,40
+* Paper|Amy Baer; Andrew DeOrio|A Longitudinal View of Gender Balance in a Large Computer Science Program
+* Paper|Adam Rosenstein; Aishma Raghu; Leo Porter|Identifying the Prevalence of the Impostor Phenomenon Among Computer Science Students
+* LightningTalk|Mayra Bachrach; Patricia Morreale; Gail Verdi|Improving the Outcomes of Hispanics in AP Computer Science|7
+# Accessibility,75
+* LightningTalk|Kendra Walther; Kate Sonka|A Study Away Summer Program Addressing Accessibility
+* Paper|Catherine M. Baker; Yasmine N. El-Glaly; Kristen Shinohara|A Systematic Analysis of Accessibility in Computing Education Research|10
+* Paper|Julian Brinkley|Participation at What Cost? Teaching Accessibility Using Participatory Design: An Experience Report
+* Paper|Yasmine N. El-Glaly|Teaching Accessibility to Software Engineering Students
+# Computing Education Research,75
+* Panel|Thomas W. Price; Baker Franke; Shuchi Grover; Monica M. McGill|Using Data to Inform Computing Education Research and Practice
+# Problem Solving,45
+# +++
+* Paper|Abe Leite; Saúl A. Blanco|Effects of Human vs. Automatic Feedback on Students' Understanding of AI Concepts and Programming Style
+* Paper|Ayesha Naeem Syeda; Rutwa Engineer; Bogdan Simion|Analyzing the Effects of Active Learning Classrooms in CS2|37
+* Panel|Farzana Rahman; Elodie Billionniere; Quincy Brown; Ann Quiroz Gates|RESET (Re-Enter STEM through Emerging Technology): Finding Re-Entry Pathways for Women
+* LightningTalk|Kevin Lin|Transitioning From Peer Instruction to POGIL with Guided Lecture Notes

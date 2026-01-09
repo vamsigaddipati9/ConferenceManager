@@ -1,0 +1,11 @@
+WolfProceedings Conference 2026
+# Session1,30
+* LightningTalk|LT1 Authors|LT1 Paper
+* Paper|Paper1 Authors|Paper1 Title
+# Session2,75
+* Panel|Panel1 Authors|Panel1 Title
+# Session3,45
+# +++
+* LightningTalk|LT2 Authors|LT2 Paper
+* Panel|Panel2 Authors|Panel2 Title
+* Paper|Paper2 Authors|Paper2 Title
